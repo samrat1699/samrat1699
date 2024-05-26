@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samrat kumar dev sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrat kumar dev sharma" height="30" width="40" /></a>
-<a href="https://kaggle.com/samrat kumar dev sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samrat kumar dev sharma" height="30" width="40" /></a>
-<a href="https://medium.com/@samrat kumar dev sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samrat kumar dev sharma" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sci-fi edu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sci-fi edu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samrat-kumar-dev-sharma-b0a5a9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samrat kumar dev sharma" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/samrat12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samrat kumar dev sharma" height="30" width="40" /></a>
+<a href="https://medium.com/@www.samratdev151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samrat kumar dev sharma" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCkQeBBQK-VrlYYV-zl6Mptw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sci-fi edu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samrat Kumar Dev Sharma</h1>
 <h3 align="center">A passionate Data Science, Machine Learning, Deep Learning, Generative AI</h3>
-<img align = "right",  alt = "coding" width = "400" src = "https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">
+<img align = "right",  alt = "coding" width = "400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FPluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr&psig=AOvVaw2g4R5j_rGSseHGNgOGl0pe&ust=1716821039096000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDurvbGq4YDFQAAAAAdAAAAABBR">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrat1699&label=Profile%20views&color=0e75b6&style=flat" alt="samrat1699" /> </p>
 
